@@ -1,0 +1,22 @@
+body {
+    background-color: #d3d3d3;
+}
+
+.profile-img {
+    border-radius: 50%;
+    width: 200px;
+    height: 200px;
+    margin-right: 20px;
+    border: 2px solid red;
+}
+
+.container {
+    max-width: 800px;
+    margin: auto;
+    padding: 0 20px;
+}
+
+.skills {
+    display: flex;
+    flex-direction: column;
+}
